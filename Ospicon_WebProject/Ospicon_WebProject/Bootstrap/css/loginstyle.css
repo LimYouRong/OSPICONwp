@@ -1,6 +1,6 @@
 ﻿body, html {
-    background-repeat: no-repeat fixed;
-    background-image: url("/Bootstrap/images/login-img.jpg");
+    background-repeat: no-repeat;
+    background-image: url("/Bootstrap/images/login-img1.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
