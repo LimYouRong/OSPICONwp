@@ -1,2 +1,0 @@
-# OSPICONwp
-Private project
